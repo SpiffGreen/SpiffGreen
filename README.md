@@ -1,4 +1,4 @@
-![about](https://github.com/SpiffGreen/cdn/blob/main/about.png?raw=true)
+![about](./gitprofile.png)
 -----------------------
 <h3 align="center">Hello World 👋</h3>
 <h5 align="center">Software Engineer | Student Developer</h5>
@@ -26,7 +26,7 @@ I'm `Spiff Jekey-Green`, you're welcome to my Github Profile. You can connect wi
 * Software Developer Intern
 
 ### Github Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=spiffgreen&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=spiffgreen&count_private=true&theme=light&showicons=true)]()
 
 ### Language Stats
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spiffgreen&langs_count=10&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spiffgreen&langs_count=1&theme=light)]()
