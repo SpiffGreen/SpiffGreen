@@ -26,7 +26,6 @@ I'm `Spiff Jekey-Green`, you're welcome to my Github Profile. You can connect wi
 * Software Developer Intern
 
 ### Github Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=spiffgreen&count_private=true&theme=light&showicons=true)]()
-
-### Language Stats
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spiffgreen&langs_count=1&theme=light)]()
+|Github Stats|Language Stats|
+|:---:|:---:|
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=spiffgreen&count_private=true&theme=light&showicons=true)]()|[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spiffgreen&langs_count=3&theme=light)]()
