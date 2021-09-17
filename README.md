@@ -1,5 +1,5 @@
-![about](./gitprofile.png)
------------------------
+<!-- ![about](./gitprofile.png) -->
+<!-- ----------------------- -->
 <h3 align="center">Hello World 👋</h3>
 <h5 align="center">Software Engineer | Student Developer</h5>
 
@@ -25,7 +25,7 @@ I'm `Spiff Jekey-Green`, you're welcome to my Github Profile. You can connect wi
 * Freelancer
 * Software Developer Intern
 
-### Github Stats
+### Stats
 |Github Stats|Language Stats|
 |:---:|:---:|
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=spiffgreen&count_private=true&theme=light&showicons=true)]()|[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spiffgreen&langs_count=3&theme=light)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=spiffgreen&count_private=true&theme=dark&showicons=true)]()|[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spiffgreen&langs_count=3&theme=dark)]()
