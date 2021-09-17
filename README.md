@@ -3,7 +3,7 @@
 <h3 align="center">Hello World 👋</h3>
 <h5 align="center">Software Engineer | Student Developer</h5>
 
-I'm `Spiff Jekey-Green`, you're welcome to my Github Profile. You can connect with me:
+Hi, 👋I’m Spiff Jekey-Green, a software developer and open source maintainer, primarily building things for the web 🌍, who believes in changing the world by building applications that are efficient and reliable using well-defined scientific principles and procedures. I am contantly challenGing and improving myself to solve business problems with IT. I’m currently available and open to new ideas and contributing to society. 🚀You can connect with me:
 * [Twitter](https://twitter.com/spiffGreen)
 * [LinkedIn](https://ng.linkedin.com/in/spiff-jekey-green-315199212)
 
