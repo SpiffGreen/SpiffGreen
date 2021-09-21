@@ -51,6 +51,10 @@ Hi, 👋I’m Spiff Jekey-Green, a software developer and open source maintainer
 * Freelancer
 * Software Developer Intern
 
+### IMPORTANT DOCS AND LINK
+* [Resume](./CV1.pdf)
+* [Portfolio](https://github.com/SpiffGreen)
+
 **LANGUAGES and TOOLS:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -63,6 +67,11 @@ Hi, 👋I’m Spiff Jekey-Green, a software developer and open source maintainer
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+### SUPPORT ME
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ### Stats
 |Github Stats|Language Stats|
