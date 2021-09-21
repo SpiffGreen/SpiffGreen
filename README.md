@@ -9,6 +9,7 @@
   <h4>Software Engineer | Student Developer</h4>
  </div>
 
+### ABOUT ME
 Hi, 👋I’m Spiff Jekey-Green, a software developer and open source maintainer, primarily building things for the web 🌍, who believes in changing the world by building applications that are efficient and reliable using well-defined scientific principles and procedures. I am contantly challenGing and improving myself to solve business problems with IT. I’m currently available and open to new ideas and contributing to society. 
 
 ### LETS TALK
