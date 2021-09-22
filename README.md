@@ -10,22 +10,22 @@
  </div>
 
 ### ABOUT ME
-Hi, 👋I’m Spiff Jekey-Green, a software developer and open source maintainer, primarily building things for the web 🌍, who believes in changing the world by building applications that are efficient and reliable using well-defined scientific principles and procedures. I am contantly challenGing and improving myself to solve business problems with IT. I’m currently available and open to new ideas and contributing to society. 
+Hi, 👋I’m Spiff Jekey-Green, a Software Engineer and open-source maintainer, primarily building things for the web 🌍, who believes in changing the world by building applications that are efficient and reliable using well-defined scientific principles and procedures. I am contantly challenging and improving myself to solve business problems with IT. I am currently available and open to new ideas and contributing to society. 
 
 ### LETS TALK
 🚀You can connect with me:
 
 <a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Spiff's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/spiffGreen">
+  <img align="left" alt="SpiffGreen | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Spiff's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Spiff's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
 <!-- * [Twitter](https://twitter.com/spiffGreen)
