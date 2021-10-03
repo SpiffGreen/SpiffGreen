@@ -4,7 +4,16 @@
   
   ## Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-  ![](https://visitor-badge.glitch.me/badge?page_id=spiffgreen.spiffgreen)
+<!--   ![](https://visitor-badge.glitch.me/badge?page_id=spiffgreen.spiffgreen) -->
+  <a href="https://discord.gg/hKQc8SX9zP" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/discord/826069747179061260?logo=discord&logoColor=white&style=for-the-badge">
+   <a/>
+  <a href="https://linkedin.com/in/alexdolbun" target="_blank">
+    <img alt="Aleksei Dolgikh Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a/>
+  <a href="https://twitter.com/alexdolbun" target="_blank">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/alexdolbun?color=blue&label=FOLLOW%20ME&logo=twitter&style=for-the-badge">
+  <a/>
   
   <h4>Software Engineer | Student Developer</h4>
  </div>
@@ -24,8 +33,8 @@ Hi, 👋I’m Spiff Jekey-Green, a Software Engineer and open-source maintainer,
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Spiff's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Spiff's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+<a href="https://facebook.com/peterthehan">
+  <img alt="Facebook" height="22" width="22" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg">
 </a>
 
 <!-- * [Twitter](https://twitter.com/spiffGreen)
@@ -88,4 +97,4 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ### Stats
 |Github Stats|Language Stats|
 |:---:|:---:|
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=spiffgreen&count_private=true&theme=dark&showicons=true)]()|[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spiffgreen&langs_count=3&theme=dark)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=spiffgreen&count_private=true&theme=github_dark&hide_border=true&showicons=true)]()|[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spiffgreen&langs_count=3&theme=github_dark&hide_border=true)]()
