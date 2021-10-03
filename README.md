@@ -8,11 +8,11 @@
   <a href="https://discord.gg/hKQc8SX9zP" target="_blank">
     <img alt="Discord" src="https://img.shields.io/discord/826069747179061260?logo=discord&logoColor=white&style=for-the-badge">
    <a/>
-  <a href="https://linkedin.com/in/alexdolbun" target="_blank">
-    <img alt="Aleksei Dolgikh Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://linkedin.com/in/spiff-jekey-green" target="_blank">
+    <img alt="Spiff Green Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   <a/>
-  <a href="https://twitter.com/alexdolbun" target="_blank">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/alexdolbun?color=blue&label=FOLLOW%20ME&logo=twitter&style=for-the-badge">
+  <a href="https://twitter.com/spiffGreen" target="_blank">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/spiffGreen?color=blue&label=FOLLOW%20ME&logo=twitter&style=for-the-badge">
   <a/>
   
   <h4>Software Engineer | Student Developer</h4>
@@ -30,7 +30,7 @@ Hi, 👋I’m Spiff Jekey-Green, a Software Engineer and open-source maintainer,
 <a href="https://twitter.com/spiffGreen">
   <img align="left" alt="SpiffGreen | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/spiff-jekey-green-315199212/">
+<a href="https://www.linkedin.com/in/spiff-jekey-green/">
   <img align="left" alt="Spiff's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://facebook.com/spiff.jekeygreen.1/">
