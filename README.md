@@ -30,10 +30,10 @@ Hi, 👋I’m Spiff Jekey-Green, a Software Engineer and open-source maintainer,
 <a href="https://twitter.com/spiffGreen">
   <img align="left" alt="SpiffGreen | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+<a href="https://www.linkedin.com/in/spiff-jekey-green-315199212/">
   <img align="left" alt="Spiff's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://facebook.com/peterthehan">
+<a href="https://facebook.com/spiff.jekeygreen.1/">
   <img alt="Facebook" height="22" width="22" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg">
 </a>
 
