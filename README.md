@@ -56,7 +56,7 @@ Hi, 👋I’m Spiff Jekey-Green, a Software Engineer and open-source maintainer,
 ![l](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![l](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) -->
   
-### Work Experience
+### WORK EXPERIENCE
 * Freelancer
 * Software Developer Intern
 
