@@ -63,6 +63,11 @@ Hi, 👋I’m Spiff Jekey-Green, a Software Engineer and open-source maintainer,
 ### IMPORTANT DOCS AND LINK
 * [Resume](./SpiffJG_Resume.pdf)
 * [Portfolio](https://github.com/SpiffGreen)
+    
+### THINGS I'VE DONE
+* [Netflix Home Page Clone](https://spiff-netflix-clone.vercel.app/)
+* [App Home Page Clone](https://spiff-apple-clone.netlify.app/)
+* [Zrack Test](https://zrack.herokuapp.com/)
 
 **LANGUAGES and TOOLS:**  
 
