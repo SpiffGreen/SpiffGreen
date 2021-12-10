@@ -19,7 +19,7 @@
  </div>
 
 ### ABOUT ME
-Hi, 👋I’m Spiff Jekey-Green, a Software Engineer and open-source maintainer, primarily building things for the web 🌍, who believes in changing the world by building applications that are efficient and reliable using well-defined scientific principles and procedures. I am contantly challenging and improving myself to solve business problems with IT. I am currently available and open to new ideas and contributing to society. 
+Hi, 👋I’m Spiff Jekey-Green, a Software Engineer and open-source maintainer, primarily building things for the web 🌍, who believes in changing the world by building applications that are efficient and reliable using well-defined scientific principles and procedures. I am constantly challenging and improving myself to solve business problems with IT. I am currently available and open to new ideas and contributing to society. 
 
 ### LETS TALK
 🚀You can connect with me:
