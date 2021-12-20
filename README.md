@@ -62,7 +62,7 @@ Hi, 👋I’m Spiff Jekey-Green, a Software Engineer and open-source maintainer,
 
 ### IMPORTANT DOCS AND LINK
 * [Resume](./SpiffJG_Resume.pdf)
-* [Portfolio](https://github.com/SpiffGreen)
+* [Portfolio](https://spiffgreen.pages.dev)
     
 ### THINGS I'VE DONE
 * [Netflix Home Page Clone](https://spiff-netflix-clone.vercel.app/)
