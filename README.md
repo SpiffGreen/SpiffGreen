@@ -61,7 +61,7 @@ Hi, 👋I’m Spiff Jekey-Green, a Software Engineer and open-source maintainer,
 * Software Developer Intern
 
 ### IMPORTANT DOCS AND LINK
-* [Resume](./SpiffJG_Resume.pdf)
+* [Resume](./SPIFF%20JEKEY-GREEN.pdf)
 * [Portfolio](https://spiffgreen.pages.dev)
     
 ### THINGS I'VE DONE
