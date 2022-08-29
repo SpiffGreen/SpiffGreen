@@ -11,7 +11,7 @@ My Name is Spiff Jekey-Green. I am Full Stack Software Engineer. I use my knowle
 - 🔭 I’m currently building and maintaining open source tools and services like on [Serve](https://github.com/spiffgreen/servejs), [Spekni](https://github.com/evavic44/spekni), [Rocketmeme](https://github.com/evavic44/rocketmeme), [React Infinitely](https://github.com/spiffgreen/react-infinitely) etc.
 - 👯 I’m looking to collaborate on open source tools for developers and machine learning.
 - 💬 Ask me about Software Engineering, Machine Learning and JavaScript.
-- 📫 Connect with me: [Linkedin](https://www.linkedin.com/in/spiff-jekey-green/), [Twitter](https://twitter.com/spiffGreen).
+- 📫 Connect with me: [Linkedin](https://www.linkedin.com/in/spiff-jekey-green/), [Twitter](https://twitter.com/spiffGreen), [Research Gate](https://www.researchgate.net/profile/Spiff-Jekey-Green).
 
 --------------
 
