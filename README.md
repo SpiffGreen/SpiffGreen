@@ -1,3 +1,5 @@
+![spiffbanner](https://user-images.githubusercontent.com/73044138/187200333-0b248b82-41bd-41be-a7e1-057723a06d3b.png)
+
 ### Hi there 👋
 
 My Name is Spiff Jekey-Green. I am Full Stack Software Engineer. I use my knowledge of programming and problem solving to build software solutions that can solve problems. 
