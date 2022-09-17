@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-My Name is Spiff Jekey-Green. I am Full Stack Software Engineer. I use my knowledge of programming and problem solving to build software solutions that can solve problems. 
+My Name is Spiff Jekey-Green. I am a Full Stack Software Engineer. I use my knowledge of computer science and problem solving to build software solutions that can solve problems. 
 
 **Strong Languages**: JavaScript, and Typescript.
 
