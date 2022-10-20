@@ -1,4 +1,4 @@
-![spiffbanner](https://user-images.githubusercontent.com/73044138/187200333-0b248b82-41bd-41be-a7e1-057723a06d3b.png)
+<!-- ![spiffbanner](https://user-images.githubusercontent.com/73044138/187200333-0b248b82-41bd-41be-a7e1-057723a06d3b.png) -->
 
 ### Hi there 👋
 
