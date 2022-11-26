@@ -6,7 +6,7 @@ My Name is Spiff Jekey-Green. I am a Full Stack Software Engineer. I use my know
 
 **Strong Languages**: JavaScript, and Typescript.
 
-**Technologies and Frameworks**: NextJS, React, React Native, MySQL, Postgresql, MongoDB, Reddis, GraphQL, AWS.
+**Technologies and Frameworks**: NextJS, React, React Native, NestJs, Angular, MySQL, Postgresql, MongoDB, Reddis, GraphQL, AWS.
 
 - 🔭 I’m currently building and maintaining open source tools and services like on [Serve](https://github.com/spiffgreen/servejs), [Spekni](https://github.com/evavic44/spekni), [Rocketmeme](https://github.com/evavic44/rocketmeme), [React Infinitely](https://github.com/spiffgreen/react-infinitely) etc.
 - 👯 I’m looking to collaborate on open source tools for developers and machine learning.
